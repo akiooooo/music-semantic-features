@@ -2,9 +2,7 @@
 
 Учебный проект о том, какие признаки аудио можно использовать в контентных рекомендациях. В проекте 100 треков из открытого Deezer API, признаки 30-секундных фрагментов, семантическая разметка, EDA и поиск похожих треков.
 
-[Открыть ноутбук в Google Colab](https://colab.research.google.com/github/USERNAME/music-semantic-features/blob/main/music_analysis.ipynb)
-
-Перед публикацией нужно заменить `USERNAME` и `music-semantic-features` на адрес своего репозитория.
+[Открыть ноутбук в Google Colab](https://colab.research.google.com/github/akiooooo/music-semantic-features/blob/main/music_analysis.ipynb)
 
 ## Навигация по заданиям
 
