@@ -1,0 +1,13 @@
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.ipynb_checkpoints/
+.idea/
+.vscode/
+.DS_Store
+Thumbs.db
+*.log
+
+data/audio/
+data/*.npy
