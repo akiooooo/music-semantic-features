@@ -1,5 +1,17 @@
 {
-  "жанр": -0.07382462405050752,
-  "настроение": -0.005125218217090023,
-  "контекст": -0.03116212552499831
+  "low_level_playlist_silhouette": 0.00015476263398635654,
+  "clap_playlist_silhouette": 0.026844775304198265,
+  "low_level_same_playlist_neighbor_accuracy": 0.4673913043478261,
+  "clap_same_playlist_neighbor_accuracy": 0.5176470588235295,
+  "low_level_comparable_neighbors": 92,
+  "clap_comparable_neighbors": 85,
+  "rhythm_energy_same_playlist_neighbor_accuracy": 0.5,
+  "spectrum_same_playlist_neighbor_accuracy": 0.42391304347826086,
+  "mfcc_same_playlist_neighbor_accuracy": 0.5164835164835165,
+  "low_level_genre_neighbor_agreement": 0.6082474226804123,
+  "clap_genre_neighbor_agreement": 0.7835051546391752,
+  "low_level_mood_neighbor_agreement": 0.7628865979381443,
+  "clap_mood_neighbor_agreement": 0.845360824742268,
+  "low_level_context_neighbor_agreement": 0.4536082474226804,
+  "clap_context_neighbor_agreement": 0.5979381443298969
 }

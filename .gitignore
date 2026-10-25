@@ -10,4 +10,4 @@ Thumbs.db
 *.log
 
 data/audio/
-data/*.npy
+data/_preview.mp3
