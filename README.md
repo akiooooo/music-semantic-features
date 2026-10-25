@@ -73,9 +73,9 @@ Silhouette score по источнику близок к нулю для обо�
 Локально:
 
 ```bash
-pip install -r requirements.txt
-python collect_dataset.py
-jupyter notebook music_analysis.ipynb
+py -m pip install -r requirements.txt
+py collect_dataset.py
+py -m jupyter notebook music_analysis.ipynb
 ```
 
 Если сохранённые признаки удалить, ноутбук скачает preview и рассчитает их заново.

@@ -9,3 +9,4 @@ matplotlib>=3.8,<4
 seaborn>=0.13,<1
 umap-learn>=0.5,<1
 tqdm>=4.66,<5
+notebook>=7,<8
